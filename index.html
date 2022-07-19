@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width; initial-scale = 1.0; maximum-scale=1.0; user-scalable=no" />
+<link rel="stylesheet" href="sty/style.css"> 
+</head>
+<body>
+<div id="content">
+
+
+[mycontentfromdb]
+
+
+
+
+
+</div>
+<div id="footer" >
+Document Quran-terjemah.org
+</div>
+
+<script>
+
+     window.onload = function(){
+        var as = document.getElementsByTagName('a');
+        for(var i=0;i< as.length;i++){
+            var a = as[i];
+
+            var href = a.getAttribute('href');
+            a.setAttribute("href","#loadaudio");
+            var click = function(){
+                qtmedia.loadurl(this.href);
+            };
+            click.href = href;
+            a.addEventListener('click', click.bind(click));
+
+        }
+
+     };
+
+    </script>
+</body>
+</html>

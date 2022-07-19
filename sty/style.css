@@ -1,0 +1,118 @@
+body{
+padding:0px;
+background: #f3f6fd;
+margin:28px;
+height: 100%;
+text-align:center;
+}
+
+@font-face {
+   font-family: Font Digital;
+   src: url('poppins_medium.ttf');
+         }
+ 
+.digital {
+  font-family: "Font Digital";
+ }
+
+#content{
+padding: 0px;
+max-width: 500px;
+display: inline-block;
+text-align: left;
+}
+img.full{
+width:100%;
+margin-bottom: 20px;
+}
+h3,h2{
+padding-top:5px;
+margin:0px 0px 20px 0px;
+
+}
+ul{
+margin:0px;
+padding-left:0px;
+list-style-type: none;
+}
+
+li{
+margin:20px  0px 20px 0px;
+padding: 20px;
+border-radius: 10px;
+background: #fff;
+border: solid 0px #cccccc;
+box-shadow: 0 0px 1px 0 rgba(0,0,0,0.0);
+
+}
+a:link,a:visited{
+color: #000;
+}
+
+#footer{
+border-top: solid 1px #cccccc;
+background: #333333;
+color: #ffffff;
+width: 100%;
+font-size: 10px; 
+}
+
+
+*,
+*:after,
+*:before {
+    box-sizing             : border-box;
+    -webkit-box-sizing     : border-box;
+    -moz-box-sizing        : border-box;
+    -webkit-font-smoothing : antialiased;
+    -moz-font-smoothing    : antialiased;
+    -o-font-smoothing      : antialiased;
+    font-smoothing         : antialiased;
+    text-rendering         : optimizeLegibility;
+
+}
+
+.mediPlayer .control {
+    opacity        : 0; /* transition: opacity .2s linear; */
+    pointer-events : none;
+    cursor         : pointer;
+}
+
+.mediPlayer .not-started .play, .mediPlayer .paused .play {
+    opacity : 1;
+
+}
+
+.mediPlayer .playing .pause {
+    opacity : 1;
+
+}
+
+.mediPlayer .playing .play {
+    opacity : 0;
+}
+
+.mediPlayer .ended .stop {
+    opacity        : 1;
+    pointer-events : none;
+}
+
+.mediPlayer .precache-bar .done {
+    opacity : 0;
+}
+
+.mediPlayer .not-started .progress-bar, .mediPlayer .ended .progress-bar {
+    display : none;
+}
+
+.mediPlayer .ended .progress-track {
+    stroke-opacity : 1;
+}
+
+.mediPlayer .progress-bar,
+.mediPlayer .precache-bar {
+    transition        : stroke-dashoffset 500ms;
+
+    stroke-dasharray  : 298.1371428256714;
+    stroke-dashoffset : 298.1371428256714;
+}
