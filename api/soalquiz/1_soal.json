@@ -30,7 +30,7 @@
     "jawaban": "a"
   },
   {
-    "soal": "4. Diantara pilihan berikut yang merupakan hukum bacaan Idzhar adalah",
+    "soal": "Diantara pilihan berikut yang merupakan hukum bacaan Idzhar adalah",
     "image": "https://drive.google.com/uc?export=download&id=100MdOJbIj1iVoelqRjKEOEukZ0qik-_M",
     "a": "c , d",
     "b": "b , c",
@@ -40,7 +40,7 @@
     "jawaban": "d"
   },
   {
-    "soal": "5. Ada berapa hukum bacaan Ikhfa’ di ayat berikut ini ?",
+    "soal": "Ada berapa hukum bacaan Ikhfa’ di ayat berikut ini ?",
     "image": "https://drive.google.com/uc?export=download&id=1-um0yLznhPjBfiNnJwUj35EHjsNnQOA9",
     "a": "4",
     "b": "2",
@@ -48,5 +48,5 @@
     "d": "7",
     "quiz": "true",
     "jawaban": "c"
-  },
+  }
 ]
