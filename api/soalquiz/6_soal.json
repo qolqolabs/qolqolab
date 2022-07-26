@@ -1,0 +1,52 @@
+[
+  {
+    "soal": "Dibawah ini yang termasuk huruf Lam Ta’rif Qamariyah adalah.....",
+    "image": "",
+    "a": "ثَ , ت , ن",
+    "b": "لَ , ر , ط",
+    "c": "خ , ط , غ",
+    "d": "ب , م , خ",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Dibawah ini yang termasuk huruf Lam Ta’rif Syamsiyah adalah.....",
+    "image": "",
+    "a": "ثَ , ت , ن",
+    "b": "لَ , ر , خ",
+    "c": "خ , ط , غ",
+    "d": "ب , م , خ",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Dibawah ini ayat yang termasuk hukum bacaan Lam Ta’rif Qamariyah adalah.....",
+    "image": "",
+    "a": "اْلبَصِيْرُ",
+    "b": "النَّاسُ",
+    "c": "السَّمِيْعُ",
+    "d": "عِنْدِ اللَّهِ",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Dibawah ini ayat yang termasuk hukum bacaan Lam Ta’rif Syamsiyah adalah.....",
+    "image": "",
+    "a": "اْلبَصِيْرُ",
+    "b": "النَّاسُ",
+    "c": "السَّمِيْعُ",
+    "d": "عِنْدِ اللَّهِ",
+    "quiz": "false",
+    "jawaban": "c"
+  },
+  {
+    "soal": "Dibawah ini ayat yang tidak termasuk hukum bacaan Lam Ta’rif Syamsiyah adalah.....",
+    "image": "https://drive.google.com/uc?export=download&id=10gMvU5W-TGAtrVeojV1VZMqv8ot881Ba",
+    "a": "c , d",
+    "b": "a , c",
+    "c": "b , d",
+    "d": "b , c",
+    "quiz": "true",
+    "jawaban": "c"
+  }
+]

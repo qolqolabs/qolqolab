@@ -1,0 +1,52 @@
+[
+  {
+    "soal": "Dibawah ini syarat-syarat agar Ra bisa memenuhi syarat Ra Tafkhim adalah",
+    "image": "",
+    "a": "Ro' Fathah atau Fathatain dan yang berharokat Dhommah atau Dhommatain",
+    "b": "Ro' yang berharokat Kasroh dan ra kasroh tanwin",
+    "c": "Ro' hidup yang sebelumnya terdapat Ya’ Sukun dibaca waqaf",
+    "d": "Ro' yang didahului huruf mati selain Ya’ yang sebelumnya ada kasroh dibaca waqaf",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Dibawah ini syarat-syarat agar Ra bisa memenuhi syarat Ra Tarqiq adalah",
+    "image": "",
+    "a": "Ro' yang berharokat Kasroh dan ra kasroh tanwin",
+    "b": "Ro' Fathah atau Fathatain dan yang berharokat Dhommah atau Dhommatain",
+    "c": "Ro' Sukun didahului fathah atau dhommah",
+    "d": "Ro’ Sukun didahului kasroh ada hamzah washal",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Dibawah ini ayat yang termasuk hukum bacaan Ra Tafkhim adalah.....",
+    "image": "",
+    "a": "اْلبَصِيْرُ",
+    "b": "الرَّحِيْمُ",
+    "c": "فِرْعَوْنَ",
+    "d": "عِنْدِ اللَّهِ",
+    "quiz": "false",
+    "jawaban": "b"
+  },
+  {
+    "soal": "Dibawah ini ayat yang termasuk hukum bacaan Ra Tarqiq adalah.....",
+    "image": "",
+    "a": "فِرْعَوْنَ",
+    "b": "رٰجِعُوْنَ",
+    "c": "السَّمِيْعُ",
+    "d": "الرَّحِيْمُ",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Dibawah ini ayat yang termasuk hukum bacaan Ra Tarqiq adalah.....",
+    "image": "https://drive.google.com/uc?export=download&id=10_rDqmQwwX1EmoS8MG4PoDDGIL1yPRvX",
+    "a": "c , d",
+    "b": "a , c",
+    "c": "b , d",
+    "d": "b , c",
+    "quiz": "true",
+    "jawaban": "b"
+  }
+]

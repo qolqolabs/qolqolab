@@ -1,0 +1,52 @@
+[
+  {
+    "soal": "Apa yang dimaksud hukum bacaan Qalqalah Sughro ?",
+    "image": "",
+    "a": "Apabila Tanwin bertemu dengan huruf selain Mim dan Ba",
+    "b": "Apabila salah satu huruf qalqalah berharokat sukun (mati), dan matinya Asli",
+    "c": "Apabila suatu huruf bertemu huruf sesamanya, yang sama makhroj dan sifatnya huruf yang pertama sukun (mati) dan huruf yang kedua berharakat",
+    "d": "Apabila salah satu huruf qalqalah berharokat sukun (mati) karena waqof (berhenti)",
+    "quiz": "false",
+    "jawaban": "b"
+  },
+  {
+    "soal": "Apa yang dimaksud hukum bacaan Qalqalah Kubro ?",
+    "image": "",
+    "a": "Apabila ada suatu huruf yang sukun berhadapan dengan huruf yang berharakat, kedua duanya itu sama makhrojnya tapi lain sifatnya",
+    "b": "Apabila salah satu huruf qalqalah berharokat sukun (mati), dan matinya Asli",
+    "c": "Apabila salah satu huruf qalqalah berharokat sukun (mati) karena waqof (berhenti)",
+    "d": "Apabila Nun sukun bertemu dengan huruf Ba",
+    "quiz": "false",
+    "jawaban": "c"
+  },
+  {
+    "soal": "Dibawah ini yang termasuk huruf bacaan Qalqalah adalah…..",
+    "image": "",
+    "a": "ق , ط , ب , ج , د",
+    "b": "م , س , ص",
+    "c": "ث , ط , ف , ك",
+    "d": "ي , ن , م , و",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Diantara pilihan berikut yang merupakan hukum bacaan Qalqalah Sughro adalah",
+    "image": "https://drive.google.com/uc?export=download&id=10g4oWC1o3jBfDw24CZKZjT-BHrueTgYN",
+    "a": "c , d",
+    "b": "a , b",
+    "c": "b , d",
+    "d": "b , c",
+    "quiz": "false",
+    "jawaban": "b"
+  },
+  {
+    "soal": "Diantara pilihan berikut yang merupakan hukum bacaan Qalqalah Kubro adalah",
+    "image": "https://drive.google.com/uc?export=download&id=10cIlAM3cWdIr-4STL0mq6CGelYPzycgH",
+    "a": "c , d",
+    "b": "a , b",
+    "c": "b , d",
+    "d": "b , c",
+    "quiz": "true",
+    "jawaban": "d"
+  }
+]

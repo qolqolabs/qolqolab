@@ -1,0 +1,52 @@
+[
+  {
+    "soal": "Apa yang dimaksud hukum bacaan Idgham mutamatsilain ?",
+    "image": "",
+    "a": "Apabila Tanwin bertemu dengan huruf selain Mim dan Ba",
+    "b": "Apabila Mim Sukun bertemu mim",
+    "c": "Apabila suatu huruf bertemu huruf sesamanya, yang sama makhroj dan sifatnya huruf yang pertama sukun (mati) dan huruf yang kedua berharakat.",
+    "d": "Apabila Nun sukun bertemu dengan huruf Ba",
+    "quiz": "false",
+    "jawaban": "c"
+  },
+  {
+    "soal": "Apa yang dimaksud hukum bacaan Idgham Mutajanisain ?",
+    "image": "",
+    "a": "Apabila ada suatu huruf yang sukun berhadapan dengan huruf yang berharakat, kedua duanya itu sama makhrojnya tapi lain sifatnya",
+    "b": "Apabila Mim Sukun bertemu mim",
+    "c": "Apabila Mim sukun bertemu dengan huruf Ba",
+    "d": "Apabila Nun sukun bertemu dengan huruf Ba",
+    "quiz": "false",
+    "jawaban": "a"
+  },
+  {
+    "soal": "Apa yang dimaksud hukum bacaan Idgham Mutaqarribain ?",
+    "image": "",
+    "a": "Apabila Mim sukun bertemu dengan huruf selain Mim dan Ba",
+    "b": "Apabila Mim Sukun bertemu mim",
+    "c": "Apabila Mim sukun bertemu dengan huruf Ba",
+    "d": "Apabila ada huruf bersukun bertemu dengan huruf yang berharokat kedua huruf itu berdekatan makhroj dan sifatnya",
+    "quiz": "false",
+    "jawaban": "d"
+  },
+  {
+    "soal": "Diantara pilihan berikut yang merupakan hukum bacaan Idgham Mutajanisain adalah",
+    "image": "https://drive.google.com/uc?export=download&id=10JYzs9CXdamRcmUKL1vSbC0Zr8u-N8Xy",
+    "a": "c , d",
+    "b": "a , b",
+    "c": "a , d",
+    "d": "b , c",
+    "quiz": "false",
+    "jawaban": "d"
+  },
+  {
+    "soal": "5. Ada berapa hukum bacaan Idgham Mutaqarribain di ayat berikut ini ?",
+    "image": "https://drive.google.com/uc?export=download&id=10JuQJ7sPV6MVzgsOFB2VIUqbC-TV2vuB",
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "8",
+    "quiz": "true",
+    "jawaban": "b"
+  }
+]
